@@ -1,5 +1,4 @@
-![Header](./github-header-image.png)
-<h1 align="center">👋 Hi, I'm Chandan Kumar Raj</h1>
+![Header](./github-header-image (1).png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=27A8F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Data+Science+Enthusiast;Open+Source+Contributor;DevOps+%7C+Cloud+Enthusiast" alt="Typing SVG">
@@ -21,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,nodejs,docker,kubernetes,aws,githubactions,linux,powerbi,mysql,mongodb" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,nodejs,docker,kubernetes,aws,githubactions,linux,mysql,mongodb" alt="Tech Stack">
 </p>
 
 ---
@@ -30,18 +29,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandan0629&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan0629&theme=radical&hide_border=true" width="48%">
+   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan0629&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=ff9600&text_color=ffffff&bg_color=0d1117&layout=compact" 
+    alt="Top Languages"
+    height="200px"
+  />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+<h2 align="center">✨ Connect with Me ✨</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandan-kumar-raj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/chandan0629" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:chandantoaws@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:chandantoaws@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/chandan-kumar-raj-210839210/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/chandan0629"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
 
 ### 🚀 Open Source Contributions
 - 👨‍💻 Contributor at *GirlScript Summer of Code (GSSoC '24)*.
