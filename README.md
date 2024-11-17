@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">👋 Hi, I'm Chandan Kumar Raj</h1>
 
 <p align="center">
