@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./github-header.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=27A8F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Data+Science+Enthusiast;Open+Source+Contributor;DevOps+%7C+Cloud+Enthusiast" alt="Typing SVG">
