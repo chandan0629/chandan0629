@@ -10,7 +10,7 @@
 
 ### About Me
 - 🌍 Based in *Kolkata, India*.
-- 🎓 *Pre-Final Year* student at *Techno Main Saltlake, specializing in **CSE-DS*.
+- 🎓 *Final Year* student at *Techno Main Saltlake, specializing in **CSE-DS*.
 - 💼 *Core Member* at *NooBuild, **Student Director* at *Unstop, and **Contributor* to various open-source projects.
 - 🌐 Experienced in *DevOps, **Cloud, **Backend Development, and **Data Science*.
 - 🚀 Currently working as a *Student Ambassador* for *LetsUpgrade* and *Campus Ambassador* for *Zuno by foundit*.
