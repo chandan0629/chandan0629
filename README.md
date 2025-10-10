@@ -44,7 +44,9 @@
   <a href="https://www.linkedin.com/in/chandan-kumar-raj-210839210/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/chandan0629"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+Holopin Badges
 
+[![Holopin Badges](https://holopin.me/chandan0629)](https://holopin.io/@chandan0629)
 
 ### 🚀 Open Source Contributions
 - 👨‍💻 Contributor at *GirlScript Summer of Code (GSSoC '24)*.
