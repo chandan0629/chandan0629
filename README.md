@@ -1,7 +1,5 @@
 ![Header](./github-header.png)
 
-![Visitor Count](https://count.getloli.com/get/@chandan0629.github.profile?theme=moebooru)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=27A8F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Cloud+and+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning"/>
 </p>
