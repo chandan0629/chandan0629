@@ -1,7 +1,9 @@
 ![Header](./github-header.png)
 
+![Visitor Count](https://count.getloli.com/get/@chandan0629.github.profile?theme=moebooru)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=27A8F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Data+Science+Enthusiast;Open+Source+Contributor;DevOps+%7C+Cloud+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=27A8F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Cloud+and+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning"/>
 </p>
 
 ---
@@ -30,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chandan0629&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan0629&theme=radical&hide_border=true" width="48%">
    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan0629&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=ff9600&text_color=ffffff&bg_color=0d1117&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan0629&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=ff9600&text_color=ffffff&bg_color=0d1117&layout=compact"
     alt="Top Languages"
     height="200px"
   />
@@ -61,3 +63,4 @@ Holopin Badges
 🛠️ DevOps Tools: Docker, Kubernetes, Terraform, GitHub Actions
 ☁️ Cloud: AWS, GCP
 📈 Data: Power BI, RDBMS, NoSQL, Big Data
+```
