@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/76783198/155918129-44d524fa-2077-4d8f-8c60-507e84b88a43.gif" align="right" width="300">
 
 # 💫 About Me:
-About Me<br>🌍 Based in Kolkata, India.<br>🎓 Final Year student at Techno Main Saltlake, specializing in CSE-DS.<br>💼 Core Member at NooBuild, Student Director at Unstop, and *Contributor to various open-source projects.<br>🌐 Experienced in SDE, Cloud, Backend Development, and Data Science.<br>🚀 Currently working as a Student Ambassador for LetsUpgrade and Campus Ambassador for Zuno by foundit.<br>📈 Contributing to GDG Kolkata and GirlScript Summer of Code 2024.
+About Me<br>🌍 Based in Kolkata, India.<br>🎓 Mtech 1st Year student at Techno Main Saltlake, specializing in CSE-DS.<br>💼 Core Member at NooBuild, Student Director at Unstop, and *Contributor to various open-source projects.<br>🌐 Experienced in SDE, Cloud, Backend Development, and Data Science.<br>🚀 Currently working as a Student Ambassador for LetsUpgrade and Campus Ambassador for Zuno by foundit.<br>📈 Contributing to GDG Kolkata and GirlScript Summer of Code 2024.
 
 
 ## 🌐 Socials:
